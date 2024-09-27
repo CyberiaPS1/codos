@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Messenger",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Messenger",
+  "parent":{
+    "name":"MGR",
+    "path":"folders/Scripts/MGR.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

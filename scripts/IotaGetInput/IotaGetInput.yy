@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"IotaGetInput",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"IotaGetInput",
+  "parent":{
+    "name":"Iota",
+    "path":"folders/Libraries/Iota.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

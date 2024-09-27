@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"lib_helpers",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"lib_helpers",
+  "parent":{
+    "name":"LIB",
+    "path":"folders/Scripts/LIB.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

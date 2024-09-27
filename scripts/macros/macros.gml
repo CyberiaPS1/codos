@@ -1,0 +1,4 @@
+
+#macro TICKRATE 120
+#macro TICKTIME 1 / TICKRATE
+

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Doodle",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Doodle",
+  "parent":{
+    "name":"ADMIN",
+    "path":"folders/Scripts/ADMIN.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
